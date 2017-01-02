@@ -18,12 +18,12 @@
   <!-- all your input fields here.... -->
   <input type='text' name='Név' name="Név" value="Név"
        onfocus="(this.value == 'Név') && (this.value = '')"
-       onblur="(this.value == '') && (this.value = 'Név')" class="btn-info"/>
+       onblur="(this.value == '') && (this.value = 'Név')" class="btn btn-info"/>
                                                                        
   <input type='text' name='Email' value="E-mail"
        onfocus="(this.value == 'E-mail') && (this.value = '')"
        onblur="(this.value == '') && (this.value = 'E-mail')" class="btn"/>  
-  <input type='submit' value='Ingyenes tanácsadást kérek' class="btn-action" />
+  <input type='submit' value='Ingyenes tanácsadást kérek' class="btn btn-action" />
 </form>
       
       {% if site.github.is_project_page %}
