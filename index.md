@@ -43,9 +43,9 @@ Amennyiben felkeltettük az érdeklődését, kérjük regisztráljon és elkül
 
 **Bővebb információért keresse fel tanácsadónkat**
 
-**Kádas Áron**<br/ >
-*KKV hitel tanácsadó*<br/ >
-info@goldconsulting.eu<br/ >
+**Kádas Áron**<br/>
+*KKV hitel tanácsadó*<br/>
+info@goldconsulting.eu<br/>
 +36 30 812 4149
 
 
