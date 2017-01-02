@@ -39,7 +39,7 @@ Beruházás nettó összege 20 millió Ft
 
 ### Ingyenes előminősítés
 
-Amennyiben felkeltettük az érdeklődését, kérjük regisztráljon és elküldjük a hitelkérelemhez és az előminősíthez szükséges dokumentumok listáját. 
+[Regisztráljon](#top) még ma és elküldjük Önnek a hitelkérelemhez és az előminősíthez szükséges dokumentumok listáját. 
 
 ### Bővebb információért keresse fel tanácsadónkat
 
