@@ -1,12 +1,29 @@
-## Welcome to GitHub Pages
+## Kamatmentes Vállalkozói Hitel
 
-You can use the [editor on GitHub](https://github.com/vestalux/mikrohitel/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Növelje ön is cége versenyképességét *ingyenhitel* segítségével. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Hiteltermék legfontosabb jellemzői
 
-### Markdown
+ - A hitel *kamata nulla százalék*
+ - Nincs kezelési költség, banki jutalék
+ - Hitelösszeg:  1 millió Ft –   600 millió Ft.
+ - 150 millió Ft hitelösszegig egyszerűsített bírálati eljárás.
+ - Fedezeti elvárás enyhébb, mint a  kereskedelemi bankoknál    
+ - Felhasználható készlet, tárgyi eszköz, immateriális javak, tehergépjármű beszerzésére, ingatlan építés, felújításra, korlátozottan ingatlan vásárlásra és használt eszköz beszerzésére
+ - A hitelfelvevők köre: egyéni vállalkozó, gazdasági társaság, szövetkezet.
+ - Futamidő: új ingatlan beruházás, felújítás, bővítés, korszerűsítés esetén: maximum 15 év; (új eszköz beszerzése esetén az eszköz Tao. szerinti amortizáció végéig).
+ - Elvárt saját forrás mértéke: 10%.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Előnyök a kereskedelmi bankok hiteleivel szemben
+
+ - Tervezhető, fix összegű, kamatmentes törlesztés
+ - Termelő, szolgáltató és kereskedelemi vállalkozások egyaránt igényelhetik
+ - Új és használt eszköz beszerzésére egyaránt felhasználható
+ - Lehetőség van szállítói finanszírozásra
+ - Készletbeszerzésre a teljes hitelösszeg 30% használható
+ - A finanszírozás igénybe vételének nincs egyéb költsége, nincs folyósítási jutalék, előtörlesztési díj
+ - Egyszerűsített, gyors ügyintézés, rugalmas folyósítás
+
 
 ```markdown
 Syntax highlighted code block
