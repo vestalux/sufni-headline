@@ -12,6 +12,20 @@
     <section class="page-header">
       <h1 class="project-name">Kamatmentes Vállalkozói Hitel</h1>
       <h2 class="project-tagline">Vigye sikerre vállalkozását.<br/> Korszerűsítés, felújítás, készletbővítés ingyenhitellel.</h2>
+     <form action="https://getsimpleform.com/messages?form_api_token=6d73babc98b744ec1ad9fb3249c87d69" method="post">
+  <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
+  <input type='hidden' name='redirect_to' value='https://vestalux.github.io/mikrohitel' />
+  <!-- all your input fields here.... -->
+  <input type='text' name='Név' name="Név" value="Név"
+       onfocus="(this.value == 'Név') && (this.value = '')"
+       onblur="(this.value == '') && (this.value = 'Enter Your Name')" class="btn"/>
+                                                                       
+  <input type='text' name='Email' value="E-mail"
+       onfocus="(this.value == 'E-mail') && (this.value = '')"
+       onblur="(this.value == '') && (this.value = 'E-mail')" class="btn"/>  
+  <input type='submit' value='Ingyenes tanácsadást kérek' class="btn" />
+</form>
+      
       {% if site.github.is_project_page %}
         <a href="#" class="btn">További információ</a>
       {% endif %}
@@ -19,14 +33,7 @@
         <a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>
         <a href="{{ site.github.tar_url }}" class="btn">Download .tar.gz</a>
       {% endif %}
-      <form action="https://getsimpleform.com/messages?form_api_token=6d73babc98b744ec1ad9fb3249c87d69" method="post">
-  <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
-  <input type='hidden' name='redirect_to' value='https://vestalux.github.io/mikrohitel' />
-  <!-- all your input fields here.... -->
-  <input type='text' name='Név' value='Név' class="btn"/>
-  <input type='text' name='Email'value='Email' class="btn"/>  
-  <input type='submit' value='Ingyenes tanácsadást kérek' class="btn" />
-</form>
+   
     </section>
 
     <section class="main-content">
