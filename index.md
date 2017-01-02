@@ -39,29 +39,24 @@ Beruházás nettó összege 20 millió Ft
 
 ### Ingyenes előminősítés
 
-Elküldjük a hitelkérelemhez és az előminősíthez szükséges dokumentumok listáját. 
+Amennyiben felkeltettük az érdeklődését, kérjük regisztráljon és elküldjük a hitelkérelemhez és az előminősíthez szükséges dokumentumok listáját. 
+
+**Bővebb információért keresse fel tanácsadónkat**
 
 > Kádas Áron
-> info@goldconsulting.eu, +36 -30-812-4149
+
+> KKV hitel tanácsadó
+
+> info@goldconsulting.eu
+
+> +36 30 812 4149
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+**Kádas Áron**
+*KKV hitel tanácsadó*
+info@goldconsulting.eu
++36 30 812 4149
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 
