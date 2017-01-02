@@ -1,18 +1,18 @@
 ## Kamatmentes Vállalkozói Hitel
 
-Növelje ön is cége versenyképességét *ingyenhitel* segítségével. 
+Növelje ön is cége versenyképességét **ingyenhitel** segítségével. 
 
 ### Hiteltermék legfontosabb jellemzői
 
- - A hitel *kamata nulla százalék*
- - Nincs kezelési költség, banki jutalék
+ - A hitel **kamata nulla százalék**
+ - **Nincs kezelési költség, banki jutalék**
  - Hitelösszeg:  1 millió Ft –   600 millió Ft.
- - 150 millió Ft hitelösszegig egyszerűsített bírálati eljárás.
+ - **150 millió Ft hitelösszegig egyszerűsített bírálati eljárás.**
  - Fedezeti elvárás enyhébb, mint a  kereskedelemi bankoknál    
  - Felhasználható készlet, tárgyi eszköz, immateriális javak, tehergépjármű beszerzésére, ingatlan építés, felújításra, korlátozottan ingatlan vásárlásra és használt eszköz beszerzésére
  - A hitelfelvevők köre: egyéni vállalkozó, gazdasági társaság, szövetkezet.
  - Futamidő: új ingatlan beruházás, felújítás, bővítés, korszerűsítés esetén: maximum 15 év; (új eszköz beszerzése esetén az eszköz Tao. szerinti amortizáció végéig).
- - Elvárt saját forrás mértéke: 10%.
+ - **Elvárt saját forrás mértéke: 10%.**
 
 ### Előnyök a kereskedelmi bankok hiteleivel szemben
 
@@ -43,9 +43,9 @@ Amennyiben felkeltettük az érdeklődését, kérjük regisztráljon és elkül
 
 **Bővebb információért keresse fel tanácsadónkat**
 
-**Kádas Áron**
-*KKV hitel tanácsadó*
-info@goldconsulting.eu
+**Kádas Áron**<br/ >
+*KKV hitel tanácsadó*<br/ >
+info@goldconsulting.eu<br/ >
 +36 30 812 4149
 
 
