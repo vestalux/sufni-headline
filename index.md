@@ -41,7 +41,9 @@ Beruházás nettó összege 20 millió Ft
 
 Amennyiben felkeltettük az érdeklődését, kérjük regisztráljon és elküldjük a hitelkérelemhez és az előminősíthez szükséges dokumentumok listáját. 
 
-**Bővebb információért keresse fel tanácsadónkat**
+### Bővebb információért keresse fel tanácsadónkat
+
+![Kádas Áron](img/kadas-aron.jpg "Kádas Áron")
 
 **Kádas Áron**<br/>
 *KKV hitel tanácsadó*<br/>
