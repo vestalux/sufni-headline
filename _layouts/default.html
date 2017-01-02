@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
   </head>
   <body>
-    <section class="page-header">
+    <section class="page-header" name="top">
       <h1 class="project-name">Kamatmentes Vállalkozói Hitel</h1>
       <h2 class="project-tagline">Vigye sikerre vállalkozását.<br/> Korszerűsítés, felújítás, készletbővítés ingyenhitellel.</h2>
      <form action="https://getsimpleform.com/messages?form_api_token=6d73babc98b744ec1ad9fb3249c87d69" method="post">
@@ -27,7 +27,7 @@
 </form>
       
       {% if site.github.is_project_page %}
-        <a href="#" class="btn btn-info">További információ</a>
+        <a href="#content" class="btn btn-info">További információ</a>
       {% endif %}
       {% if site.show_downloads %}
         <a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>
@@ -36,7 +36,7 @@
    
     </section>
 
-    <section class="main-content">
+    <section class="main-content" name="content">
       {{ content }}
 
       <footer class="site-footer">
