@@ -5,5 +5,5 @@
 .page-header{background-image: linear-gradient(-90deg, #5244A2, #A26B44);}
 .btn-info {padding: 0.3rem 1rem; margin-top: 3rem;}
 .btn-action {background-color: rgba(169, 184, 85, 0.8)}
-img[src*='#left']{ float: left; }
+img[src*='#left']{ float: left;border-radius: 50%; display: block; max-width: 100%; height: auto; margin: 2rem;}
 .clearfix{clear:left;}
