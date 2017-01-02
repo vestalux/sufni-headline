@@ -7,3 +7,6 @@
 .btn-action {background-color: rgba(169, 184, 85, 0.8)}
 img[src*='#left']{ float: left;border-radius: 50%; display: block; max-width: 100%; height: auto; margin: 2rem;}
 .clearfix{clear:left;}
+@media only screen and (max-width: 500px) {
+    img[src*='#left']{ float: none; }
+}
