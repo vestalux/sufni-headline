@@ -43,8 +43,7 @@ Amennyiben felkeltettük az érdeklődését, kérjük regisztráljon és elkül
 
 ### Bővebb információért keresse fel tanácsadónkat
 
-![Kádas Áron](img/kadas-aron.jpg "Kádas Áron")
-
+![Kádas Áron](img/kadas-aron.jpg#left "Kádas Áron")
 **Kádas Áron**<br/>
 *KKV hitel tanácsadó*<br/>
 info@goldconsulting.eu<br/>
