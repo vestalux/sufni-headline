@@ -25,6 +25,25 @@ Növelje ön is cége versenyképességét *ingyenhitel* segítségével.
  - Egyszerűsített, gyors ügyintézés, rugalmas folyósítás
 
 
+### Példa hitelfelvételre
+Beruházás nettó összege 20 millió Ft
+
+-	Új eszköz beszerzése 10 millió Ft -  önerő (10%) 1 millió Ft, hitelösszege 9 millió Ft,– törlesztő részlet – 107.142 Ft/hó, futamidő 84 hó  
+-	ingatlan felújítás 5 millió Ft –- önerő 500 eFt, hitelösszeg 4,5 millió Ft - törlesztő részlet – 25.000 Ft/hó, futamidő 180 hó
+-	tehergépkocsi beszerzés 5 millió Ft- önerő (20%) 1 millió Ft hitel 4 millió Ft -futamidő 5 év – 67.000 Ft, futamidő 60 hó
+
+#### Törlesztőrészlet:
+ - 60 hónap – *199.142 Ft*
+ - 61-84 hónap– *132.142 Ft*
+ - 85-180 hónap- *25.000 Ft*
+
+### Ingyenes előminősítés
+
+Elküldjük a hitelkérelemhez és az előminősíthez szükséges dokumentumok listáját. 
+
+> Kádas Áron
+> info@goldconsulting.eu, +36 -30-812-4149
+
 ```markdown
 Syntax highlighted code block
 
@@ -45,10 +64,4 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vestalux/mikrohitel/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
