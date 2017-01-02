@@ -1,8 +1,8 @@
-##Sikeres Registráció
+## Sikeres Registráció
 
 Köszönjük hogy regisztrált ingyenes hitel előminősítő szolgáltatásunkra.
 Tanácsadónk hamarosan felkeresi Önt
 
 
 
-[Vissza a kezdőlapra](/)
+[Vissza a kezdőlapra](/mikrohitel)
