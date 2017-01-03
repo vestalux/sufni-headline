@@ -1,3 +1,6 @@
+---
+layout: noform
+---
 ## Sikeres Registráció
 
 Köszönjük hogy regisztrált ingyenes hitel előminősítő szolgáltatásunkra.
