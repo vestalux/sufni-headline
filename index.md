@@ -27,15 +27,14 @@ Növelje ön is cége versenyképességét **ingyenhitel** segítségével.
 
 ### Példa hitelfelvételre
 Beruházás nettó összege 20 millió Ft
+ - Új eszköz beszerzése 10 millió Ft – önerő 1 millió Ft, hitel összege 9 millió Ft  
+ - Ingatlan felújítás 5 millió Ft – önerő 500 eFt, hitelösszeg 4,5 millió  Ft
+ - Tehergépkocsi beszerzés 5 millió Ft- önerő (20%) 1 millió Ft hitel 4 millió Ft 
 
--	Új eszköz beszerzése 10 millió Ft -  önerő (10%) 1 millió Ft, hitelösszege 9 millió Ft,– törlesztő részlet – 107.142 Ft/hó, futamidő 84 hó  
--	ingatlan felújítás 5 millió Ft –- önerő 500 eFt, hitelösszeg 4,5 millió Ft - törlesztő részlet – 25.000 Ft/hó, futamidő 180 hó
--	tehergépkocsi beszerzés 5 millió Ft- önerő (20%) 1 millió Ft hitel 4 millió Ft -futamidő 5 év – 67.000 Ft, futamidő 60 hó
-
-#### Törlesztőrészlet:
- - 60 hónap – *199.142 Ft*
- - 61-84 hónap– *132.142 Ft*
- - 85-180 hónap- *25.000 Ft*
+**Türelmi idő:** 12 hónap (átlag)
+**Futamidő:** 168 hónap
+**Hitel összege:** 17,5 millió Ft
+**Törlesztőrészlet:** 104.166 Ft
 
 ### Ingyenes előminősítés
 
