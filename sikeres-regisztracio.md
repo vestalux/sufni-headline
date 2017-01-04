@@ -8,4 +8,4 @@ Tanácsadónk hamarosan felkeresi Önt
 
 
 
-[Vissza a kezdőlapra](/mikrohitel)
+[Vissza a kezdőlapra](/)
