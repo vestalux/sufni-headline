@@ -1,2 +1,5 @@
 theme: jekyll-theme-cayman
 site.title: Kamatmentes vállalkozói hitel
+sass:
+  sass_dir: _sass
+  style: compressed
