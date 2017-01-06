@@ -2,3 +2,5 @@ theme: jekyll-theme-cayman
 site.title: Kamatmentes vállalkozói hitel
 sass:
   style: compressed
+gems:
+  - jekyll-sitemap
