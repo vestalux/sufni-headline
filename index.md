@@ -1,3 +1,10 @@
+---
+layout: default
+sitemap:
+    priority: 0.7
+    changefreq: 'monthly'
+    lastmod: 2017-01-06T09:59:30-05:00
+---
 ## Kamatmentes Vállalkozói Hitel
 
 Növelje ön is cége versenyképességét **ingyenhitel** segítségével. 
