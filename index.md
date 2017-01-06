@@ -53,8 +53,8 @@ Beruházás nettó összege 20 millió Ft
 
 ![Kádas Áron](img/kadas-aron.jpg#left "Kádas Áron")
 **Kádas Áron**<br/>
-*KKV hitel tanácsadó*<br/>
-info@goldconsulting.eu<br/>
+*KKV hitel tanácsadó*<br>
+&#105;&#110;&#102;&#111;&#64;&#103;&#111;&#108;&#100;&#99;&#111;&#110;&#115;&#117;&#108;&#116;&#105;&#110;&#103;&#46;&#101;&#117;<br/>
 +36 30 812 4149
 <div class="clearfix"></div>
 
