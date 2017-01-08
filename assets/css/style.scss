@@ -9,14 +9,17 @@
 img[src*='#left']{border-radius: 50%; display: block; max-width: 100%; height: auto; margin: 2rem;}
 .clearfix{clear:left;}
 .project-name {
-   font-family: "Sufni Headline";}
+   font-family: "Sufni Headline";
+font-size: 6rem;
+letter-spacing: 2px;
+}
 
 
 /* Sufni Headline */
 @font-face {
   font-family: 'Sufni Headline';
   font-style: normal;
-  font-weight: 200;
+  font-weight: normal;
   src: local('Sufni Headline'), local('Sufni Headline'), url(https://vestalux.github.io/sufni-headline/download/Sufni-Headline.woff) format('woff2');
  
 }
